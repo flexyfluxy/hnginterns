@@ -1,7 +1,7 @@
 <?php
   $servername = "localhost";
   $username = "root";
-  $password = "fluxy";
+  $password = "";
   $dbname = "hnginterns";
 
   try {
